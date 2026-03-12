@@ -1,0 +1,13 @@
+# ==========================================
+# Developed by Arpit Singh
+# Project: TripCraft AI - Travel Planner
+# ==========================================
+
+# Dependency directories
+node_modules/
+
+# Environment variables (DO NOT COMMIT)
+.env
+
+# MacOS system files
+.DS_Store
