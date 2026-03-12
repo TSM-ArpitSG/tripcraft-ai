@@ -412,19 +412,57 @@ npm run dev
 
 ## 12. Screenshots
 
-> Add screenshots to a `screenshots/` folder in the project root and update the paths below.
+### Landing Page
+![Landing Page](./screenshots/landing.png)
+*Hero section with animated mesh background and CTA buttons*
 
-| Screen | Description |
-|---|---|
-| **Landing Page** | `![Landing](./screenshots/landing.png)` — Hero section with animated mesh background and CTA buttons |
-| **Register** | `![Register](./screenshots/register.png)` — Split-screen auth with password strength meter |
-| **Login** | `![Login](./screenshots/login.png)` — Glassy split-screen login form |
-| **Dashboard** | `![Dashboard](./screenshots/dashboard.png)` — Trip card grid with quick stats |
-| **Plan Wizard** | `![Plan](./screenshots/plan.png)` — Multi-step trip planner |
-| **Trip Itinerary** | `![Itinerary](./screenshots/trip-itinerary.png)` — Day-by-day accordion with activity cards |
-| **Trip Budget** | `![Budget](./screenshots/trip-budget.png)` — Animated proportional budget bars |
-| **Trip Hotels** | `![Hotels](./screenshots/trip-hotels.png)` — AI-curated hotel cards with amenity tags |
-| **Trip Packing** | `![Packing](./screenshots/trip-packing.png)` — Smart packing checklist grouped by AI |
+---
+
+### Register
+![Register](./screenshots/register.png)
+*Split-screen auth with password strength meter*
+
+---
+
+### Login
+![Login](./screenshots/login.png)
+*Glassy split-screen login form*
+
+---
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+*Trip card grid with quick stats*
+
+---
+
+### Plan Wizard
+![Plan Wizard](./screenshots/plan.png)
+*Multi-step AI trip planner*
+
+---
+
+### Trip Itinerary Tab
+![Itinerary](./screenshots/trip-itinerary.png)
+*Day-by-day accordion with activity cards and re-generate controls*
+
+---
+
+### Trip Budget Tab
+![Budget](./screenshots/trip-budget.png)
+*Animated proportional budget bars*
+
+---
+
+### Trip Hotels Tab
+![Hotels](./screenshots/trip-hotels.png)
+*AI-curated hotel cards with amenity tags*
+
+---
+
+### Trip Packing Tab
+![Packing](./screenshots/trip-packing.png)
+*Smart packing checklist grouped by AI category*
 
 ---
 
