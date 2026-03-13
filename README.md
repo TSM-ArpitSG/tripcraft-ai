@@ -2,16 +2,16 @@
 
 > An AI-powered, full-stack travel planning application that builds personalized multi-day itineraries, real budget estimates, curated hotel recommendations, and smart packing lists in seconds.
 
-**Live Demo:** `[Add your Vercel URL here]`  
-**Backend API:** `[Add your Render URL here]`  
-**Repository:** `[Add your GitHub URL here]`
+**Live Demo:** `https://tripcraft-ai-inky.vercel.app/`  
+**Backend API:** `https://tripcraft-ai-y1oj.onrender.com/api`  
+**Repository:** `https://github.com/TSM-ArpitSG/tripcraft-ai`
 
 ---
 
 ## 🎬 Demo Video
 
-> **Add your walkthrough video link here:**  
-> `[Google Drive / YouTube link]`
+> **Watch the full walkthrough video here:**  
+> [TripCraft AI — Walkthrough Video](https://drive.google.com/file/d/1BGSMBWWgP_-OTLQvHMjrLdg-jQPjr0w6/view?usp=sharing)
 
 ---
 
@@ -395,7 +395,7 @@ npm run dev
    - `PORT=5000`
 7. **MongoDB Atlas:** Add `0.0.0.0/0` to the IP allowlist (Network Access) so Render can connect.
 
-> **Live backend URL:** `[Add your Render URL here]`
+> **Live backend URL:** `https://tripcraft-ai-y1oj.onrender.com/api`
 
 ### Frontend — Vercel
 
@@ -406,7 +406,7 @@ npm run dev
    - `NEXT_PUBLIC_API_URL=https://your-backend.onrender.com/api`
 5. Deploy — Vercel auto-rebuilds on every push to `main`.
 
-> **Live frontend URL:** `[Add your Vercel URL here]`
+> **Live frontend URL:** `https://tripcraft-ai-inky.vercel.app/`
 
 ---
 
